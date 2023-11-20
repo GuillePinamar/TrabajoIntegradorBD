@@ -1,0 +1,10 @@
+INSERT INTO oradores(nombre,apellido,mail,tema,fecha_alta) VALUES('Emiliano','Martinez','emartinez@hotmail.com','Penales','2022-12-18');
+INSERT INTO oradores(nombre,apellido,mail,tema,fecha_alta) VALUES('Nicolas','Otamendi','notamendiz@hotmail.com','Despejes','2022-12-18');
+INSERT INTO oradores(nombre,apellido,mail,tema,fecha_alta) VALUES('Nahuel','Molina','nmolina@hotmail.com','Marcacion','2022-12-18');
+INSERT INTO oradores(nombre,apellido,mail,tema,fecha_alta) VALUES('Cristian','Romero','cromero@hotmail.com','Barridas','2022-12-18');
+INSERT INTO oradores(nombre,apellido,mail,tema,fecha_alta) VALUES('Nicolas','Tagliafico','ntagliaficoz@hotmail.com','Subidas','2022-12-18');
+INSERT INTO oradores(nombre,apellido,mail,tema,fecha_alta) VALUES('Rodrigo','De Paul','rdepaul@hotmail.com','Pelotasos','2022-12-18');
+INSERT INTO oradores(nombre,apellido,mail,tema,fecha_alta) VALUES('Enzo','Fernandez','efernandez@hotmail.com','Distribucion','2022-12-18');
+INSERT INTO oradores(nombre,apellido,mail,tema,fecha_alta) VALUES('Alexis','Mc Allister','amcallister@hotmail.com','Agilidad','2022-12-18');
+INSERT INTO oradores(nombre,apellido,mail,tema,fecha_alta) VALUES('Lionel','Messi','lmessi@hotmail.com','Regates','2022-12-18');
+INSERT INTO oradores(nombre,apellido,mail,tema,fecha_alta) VALUES('Julian','Alvarez','jalvarezz@hotmail.com','Goles','2022-12-18');
